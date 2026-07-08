@@ -1,0 +1,7 @@
+bm25s>=0.3
+google-genai>=1.73
+matplotlib>=3.10
+numpy>=1.26
+sacrebleu>=2.6
+torch>=2.1
+unbabel-comet>=2.2

@@ -1,0 +1,35 @@
+Lista de posibles parámetros:
+
+Sin parámetros
+def-propia
+def-cache
+ejemplo-cache
+def-ed
+ejemplo-ed
+def-bm
+ejemplo-bm
+
+Combinaciones de parámetros y experimento equivalente:
+
+experimento1: Sin parámetros
+experimento2: def-propia
+experimento3: def-cache
+experimento4: def-propia+def-cache
+experimento5: ejemplo-cache
+experimento6: ejemplo-cache+def-propia
+experimento7: def-cache+ejemplo-cache
+experimento8: def-ed
+experimento9: ejemplo-ed
+experimento10: def-ed+ejemplo-ed
+experimento11: def-cache+def-ed
+experimento12: ejemplo-cache+ejemplo-ed
+experimento13: def-cache+def-ed+ejemplo-cache+ejemplo-ed
+experimento14: def-bm
+experimento15: ejemplo-bm
+experimento16: def-bm+ejemplo-bm
+experimento17: def-propia+def-ed+ejemplo-ed+def-bm+ejemplo-bm
+experimento18: def-ed+ejemplo-bm
+experimento19: def-bm+ejemplo-ed
+experimento20: def-propia+def-ed
+experimento21: def-propia+ejemplo-bm
+experimento22: def-propia+def-ed+ejemplo-ed
